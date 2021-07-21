@@ -1,29 +1,25 @@
 ---
 layout: page
-title: About
+title: Who, what, where?!
+permalink: /about/
 ---
+This site is for chronicling the D&D campaign run by Ben at [Lovecraft Game Store](https://lovecraftgamestore.shop).
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Characters
+Zer0 - Warforged Samurai
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Misty Shadow - Tabaxi Rogue
 
-There are currently two themes built on Poole:
+Iliqua - High Elf Bladesinger
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+Kirv - Dragonborn Warlock (MIA)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Sorrel - Human Cleric
 
-## Setup
+Jaxzon Finch - Human Paladin
 
-Some fun facts about the setup of this project include:
+### Former Characters
 
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
+Eldur - Human Paladin - [Died]({% post_url 2021-03-25-week-8 %}) (lost at sea) because he thought sea hags were easy to kill.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Jennkig - Gnome Bard - [Drowned]({% post_url 2021-03-25-week-8 %}) after setting fire to the ship we were on.
