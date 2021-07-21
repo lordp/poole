@@ -9,7 +9,12 @@
       <header class="masthead">
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-          <small>{{ site.tagline }}</small>
+          <small>
+            {{ site.tagline }}
+            | <a href="/about/">About</a> 
+            | <a href="/archive/">Archive</a>
+            | <a href="/mournkeld/">Mournkeld</a>
+          </small>
         </h3>
       </header>
 
@@ -17,11 +22,6 @@
         {{ content }}
       </main>
 
-      <footer class="footer">
-        <small>
-          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
-        </small>
-      </footer>
     </div>
 
     {% if site.ga_analytics %}

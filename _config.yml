@@ -1,8 +1,9 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: Ben's D&D Campaign
+tagline: A Chronicle Of Chaos
+url: https://dnd.addict.net.nz
 paginate: 1
+paginate_path: "/page/:num/"
 baseurl: ""
 permalink: pretty
 
@@ -33,9 +34,7 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: lordp
 
 # Custom vars
 version: 3.0.0
