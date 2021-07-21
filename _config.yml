@@ -7,6 +7,10 @@ paginate_path: "/page/:num/"
 baseurl: ""
 permalink: pretty
 
+collections:
+  characters:
+    output: true
+
 # Gems
 plugins:
   - jekyll-gist
