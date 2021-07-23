@@ -3,7 +3,7 @@ layout: page
 title: Who, what, where?!
 permalink: /about/
 ---
-This site is for chronicling the D&D campaign run by Ben at [Lovecraft Game Store](https://lovecraftgamestore.shop).
+This site is for chronicling the D&D campaign run by Ben at [Lovecraft Game Store](https://lovecraftgamestore.shop). Set in the Warhammer universe, with the 5e ruleset.
 
 ### Characters
 Zer0 - Warforged Samurai
