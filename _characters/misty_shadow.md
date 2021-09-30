@@ -1,7 +1,7 @@
 ---
 name: Misty Shadow
 class: Rogue
-level: 4
+level: 5
 race: Tabaxi
 layout: character
 ---

@@ -1,7 +1,7 @@
 ---
 name: Iliqua
 class: Wizard (Bladesinger)
-level: 4
+level: 5
 race: High Elf
 layout: character
 ---

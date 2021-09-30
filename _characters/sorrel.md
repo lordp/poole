@@ -1,7 +1,7 @@
 ---
 name: Sorrel
 class: Cleric
-level: 4
+level: 5
 race: Human
 layout: character
 ---
