@@ -1,7 +1,7 @@
 ---
 name: Jaxzon Finch
 class: Paladin (Oath of Conquest)
-level: 5
+level: 6
 race: Human
 layout: character
 ---

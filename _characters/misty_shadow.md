@@ -1,5 +1,5 @@
 ---
-name: Misty Shadow
+name: Misty Shadow (MIA)
 class: Rogue
 level: 5
 race: Tabaxi
