@@ -1,6 +1,6 @@
 ---
 name: Shebrum
-class: Monk
+class: Rogue
 level: 6
 race: Tortle
 layout: character
