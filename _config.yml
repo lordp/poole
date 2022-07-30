@@ -16,6 +16,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-compose
 
 # Optimize Jekyll
 exclude:
@@ -42,3 +43,8 @@ author:
 
 # Custom vars
 version: 3.0.0
+
+jekyll_compose:
+  default_front_matter:
+    posts:
+      categories: journal
