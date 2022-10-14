@@ -1,7 +1,7 @@
 ---
 name: Shebrum
 class: Rogue
-level: 6
+level: 7
 race: Tortle
 layout: character
 ---
