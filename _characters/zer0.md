@@ -1,7 +1,7 @@
 ---
 name: Zer0
 class: Samurai
-level: 7
+level: 8
 race: Warforged
 layout: character
 ---
