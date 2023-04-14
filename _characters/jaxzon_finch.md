@@ -1,6 +1,6 @@
 ---
 name: Jaxzon Finch
-class: Paladin (Oath of Conquest) / Warlock (Pact of the Blade)
+class: Paladin (Oath of Conquest) / Warlock (Hexblade)
 level: 7P / 1W
 race: Human
 layout: character
